@@ -11,6 +11,10 @@ variable "instance_type" {
   default = "t3.large"
 }
 
+variable "aws_region" {
+  default = "us-east-2"
+}
+
 variable "instance_rootfs_size" {
   default = "20"
 }
