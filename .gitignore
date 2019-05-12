@@ -4,3 +4,4 @@ minishift.plan
 *.tfstate*
 *.auto.tfvars
 *.swp
+.virtenv/**
